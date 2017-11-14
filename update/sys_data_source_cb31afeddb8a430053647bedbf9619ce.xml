@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_data_source">
+    <sys_data_source action="INSERT_OR_UPDATE">
+        <category/>
+        <connection_timeout>0</connection_timeout>
+        <connection_url>attachment://sys_data_source:cb31afeddb8a430053647bedbf9619ce/</connection_url>
+        <connection_url_parameters/>
+        <csv_delimiter/>
+        <database_name/>
+        <database_port/>
+        <expand_node_children>true</expand_node_children>
+        <file_path/>
+        <file_retrieval_method>Attachment</file_retrieval_method>
+        <format>XML</format>
+        <glide_keystore>false</glide_keystore>
+        <header_row>0</header_row>
+        <import_set_table_label>Incident Attachment Doc</import_set_table_label>
+        <import_set_table_name>x_55486_archive_incident_attachment_doc</import_set_table_name>
+        <instance_name/>
+        <jdbc_password/>
+        <jdbc_server/>
+        <jdbc_user_name/>
+        <jpath_root_node/>
+        <last_run_database_field/>
+        <last_run_datetime/>
+        <ldap_target/>
+        <maximum_rows/>
+        <mid_server/>
+        <name>Incident Sys Attachment Doc XML</name>
+        <oracle_port>1521</oracle_port>
+        <oracle_sid>orcl</oracle_sid>
+        <properties/>
+        <query>All Rows from Table</query>
+        <query_timeout>0</query_timeout>
+        <scp_authentication>Username and Password</scp_authentication>
+        <scp_password/>
+        <scp_port/>
+        <scp_server/>
+        <scp_user_name/>
+        <sheet_number>0</sheet_number>
+        <sql_statement/>
+        <ssh_keyfile_path/>
+        <sys_class_name>sys_data_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-26 20:35:52</sys_created_on>
+        <sys_id>cb31afeddb8a430053647bedbf9619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Sys Attachment Doc XML</sys_name>
+        <sys_package display_value="Alliant Historical Archive" source="x_55486_archive">624d47e1db8a430053647bedbf96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Alliant Historical Archive">624d47e1db8a430053647bedbf96192c</sys_scope>
+        <sys_update_name>sys_data_source_cb31afeddb8a430053647bedbf9619ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-26 20:35:52</sys_updated_on>
+        <table_name/>
+        <type>File</type>
+        <use_integrated_authentication>false</use_integrated_authentication>
+        <use_last_run_datetime>false</use_last_run_datetime>
+        <xpath_root_node>/unload/sys_attachment_doc</xpath_root_node>
+        <zipped>false</zipped>
+    </sys_data_source>
+</record_update>

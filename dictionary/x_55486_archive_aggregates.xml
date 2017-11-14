@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Aggregates" max_length="40" name="x_55486_archive_aggregates" type="collection">
+        <element label="Aggregate Name" max_length="40" name="u_aggregate_name" type="string"/>
+        <element label="Available Space" max_length="40" name="u_available_space" type="string"/>
+        <element label="Committed (%)" max_length="40" name="u_committed" type="string"/>
+        <element label="Created By" max_length="32" name="u_created_by" type="string"/>
+        <element label="ID Number" max_length="40" name="u_id_number" type="string"/>
+        <element label="Notes" max_length="1000" name="u_notes" type="string"/>
+        <element label="Number of Disks" max_length="40" name="u_number_of_disks" type="string"/>
+        <element label="SAN Filer Name" max_length="255" name="u_san_filer_name" type="string"/>
+        <element label="server" max_length="32" name="u_server" type="string"/>
+        <element label="Status" max_length="40" name="u_status" type="string"/>
+        <element label="Total Space" max_length="40" name="u_total_space" type="string"/>
+        <element label="Used Space" max_length="40" name="u_used_space" type="string"/>
+    </element>
+</database>

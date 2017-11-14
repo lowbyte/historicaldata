@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="os_address_width" label="OS Address Width (bits)" language="en" table="x_55486_archive_desktop">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>os_address_width</element>
+            <help/>
+            <hint/>
+            <label>OS Address Width (bits)</label>
+            <language>en</language>
+            <name>x_55486_archive_desktop</name>
+            <plural>OS Address Width (bits)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-04 07:02:38</sys_created_on>
+            <sys_id>cccd7e90db92030053647bedbf961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>OS Address Width (bits)</sys_name>
+            <sys_package display_value="Alliant Historical Archive" source="x_55486_archive">624d47e1db8a430053647bedbf96192c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Alliant Historical Archive">624d47e1db8a430053647bedbf96192c</sys_scope>
+            <sys_update_name>sys_documentation_x_55486_archive_desktop_os_address_width_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-04 07:02:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

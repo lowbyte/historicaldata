@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_55486_archive_laptop" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_name</element>
+            <list_id display_value="x_55486_archive_laptop" element="NULL" name="x_55486_archive_laptop" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3f0dbe6cdb5a030053647bedbf961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-05 01:38:06</sys_created_on>
+            <sys_id>4c1dbe6cdb5a030053647bedbf961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-05 01:38:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>can_host</element>
+            <list_id display_value="x_55486_archive_laptop" element="NULL" name="x_55486_archive_laptop" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3f0dbe6cdb5a030053647bedbf961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-05 01:38:06</sys_created_on>
+            <sys_id>c01dbe6cdb5a030053647bedbf961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-05 01:38:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="x_55486_archive_laptop" element="NULL" name="x_55486_archive_laptop" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3f0dbe6cdb5a030053647bedbf961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-05 01:38:06</sys_created_on>
+            <sys_id>441dbe6cdb5a030053647bedbf961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-05 01:38:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cd_rom</element>
+            <list_id display_value="x_55486_archive_laptop" element="NULL" name="x_55486_archive_laptop" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3f0dbe6cdb5a030053647bedbf961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-05 01:38:06</sys_created_on>
+            <sys_id>c41dbe6cdb5a030053647bedbf961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-05 01:38:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cd_speed</element>
+            <list_id display_value="x_55486_archive_laptop" element="NULL" name="x_55486_archive_laptop" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3f0dbe6cdb5a030053647bedbf961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-05 01:38:06</sys_created_on>
+            <sys_id>481dbe6cdb5a030053647bedbf961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-05 01:38:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>change_control</element>
+            <list_id display_value="x_55486_archive_laptop" element="NULL" name="x_55486_archive_laptop" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3f0dbe6cdb5a030053647bedbf961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-05 01:38:06</sys_created_on>
+            <sys_id>c81dbe6cdb5a030053647bedbf961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-05 01:38:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>chassis_type</element>
+            <list_id display_value="x_55486_archive_laptop" element="NULL" name="x_55486_archive_laptop" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3f0dbe6cdb5a030053647bedbf961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-05 01:38:06</sys_created_on>
+            <sys_id>4c1dbe6cdb5a030053647bedbf961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-05 01:38:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>checked_in</element>
+            <list_id display_value="x_55486_archive_laptop" element="NULL" name="x_55486_archive_laptop" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3f0dbe6cdb5a030053647bedbf961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-05 01:38:06</sys_created_on>
+            <sys_id>cc1dbe6cdb5a030053647bedbf961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-05 01:38:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>checked_out</element>
+            <list_id display_value="x_55486_archive_laptop" element="NULL" name="x_55486_archive_laptop" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3f0dbe6cdb5a030053647bedbf961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-05 01:38:06</sys_created_on>
+            <sys_id>401dbe6cdb5a030053647bedbf961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-05 01:38:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments</element>
+            <list_id display_value="x_55486_archive_laptop" element="NULL" name="x_55486_archive_laptop" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3f0dbe6cdb5a030053647bedbf961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-05 01:38:06</sys_created_on>
+            <sys_id>c01dbe6cdb5a030053647bedbf961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-05 01:38:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_55486_archive_laptop</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-05 01:38:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f0dbe6cdb5a030053647bedbf961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_55486_archive_laptop</sys_name>
+            <sys_package display_value="Alliant Historical Archive" source="x_55486_archive">624d47e1db8a430053647bedbf96192c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Alliant Historical Archive">624d47e1db8a430053647bedbf96192c</sys_scope>
+            <sys_update_name>sys_ui_list_x_55486_archive_laptop_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-05 01:38:06</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="server" max_length="40" name="x_55486_archive_server" type="collection">
+        <element label="Asset" max_length="32" name="asset" type="string"/>
+        <element label="Asset Tag" max_length="40" name="asset_tag" type="string"/>
+        <element label="Assigned" max_length="40" name="assigned" type="glide_date_time"/>
+        <element label="Assigned To" max_length="32" name="assigned_to" type="string"/>
+        <element label="Assignment group" max_length="32" name="assignment_group" type="string"/>
+        <element label="Attributes" max_length="65000" name="attributes" type="string"/>
+        <element label="Can Host Applications" max_length="40" name="can_host" type="boolean"/>
+        <element label="Can Print" max_length="40" name="can_print" type="boolean"/>
+        <element label="Category" max_length="40" name="category" type="string"/>
+        <element label="CD" max_length="40" name="cd_rom" type="boolean"/>
+        <element label="CD Speed" max_length="40" name="cd_speed" type="integer"/>
+        <element label="Approval group" max_length="32" name="change_control" type="string"/>
+        <element label="Chassis type" max_length="40" name="chassis_type" type="string"/>
+        <element label="Checked in" max_length="40" name="checked_in" type="glide_date_time"/>
+        <element label="Checked out" max_length="40" name="checked_out" type="glide_date_time"/>
+        <element label="Classification" max_length="40" name="classification" type="string"/>
+        <element label="Comments" max_length="4000" name="comments" type="string"/>
+        <element label="Company" max_length="40" name="company" type="string"/>
+        <element label="Correlation id" max_length="32" name="correlation_id" type="string"/>
+        <element label="Cost" max_length="40" name="cost" type="float"/>
+        <element label="Cost currency" max_length="3" name="cost_cc" type="string"/>
+        <element label="Cost center" max_length="32" name="cost_center" type="string"/>
+        <element label="CPU core count" max_length="40" name="cpu_core_count" type="integer"/>
+        <element label="CPU core thread" max_length="40" name="cpu_core_thread" type="integer"/>
+        <element label="CPU Count" max_length="40" name="cpu_count" type="integer"/>
+        <element label="CPU Manufacturer" max_length="32" name="cpu_manufacturer" type="string"/>
+        <element label="CPU name" max_length="100" name="cpu_name" type="string"/>
+        <element label="CPU Speed (MHz)" max_length="40" name="cpu_speed" type="decimal"/>
+        <element label="CPU Type" max_length="40" name="cpu_type" type="string"/>
+        <element label="Default Gateway" max_length="40" name="default_gateway" type="string"/>
+        <element label="Order Received" max_length="40" name="delivery_date" type="glide_date_time"/>
+        <element label="Department" max_length="32" name="department" type="string"/>
+        <element label="Discovery source" max_length="40" name="discovery_source" type="string"/>
+        <element label="Disk Space (GB)" max_length="40" name="disk_space" type="decimal"/>
+        <element label="DNS Domain" max_length="255" name="dns_domain" type="string"/>
+        <element label="Disaster backup" max_length="32" name="dr_backup" type="string"/>
+        <element label="Due" max_length="40" name="due" type="glide_date_time"/>
+        <element label="Due in" max_length="40" name="due_in" type="glide_date_time"/>
+        <element label="Fault count" max_length="40" name="fault_count" type="integer"/>
+        <element label="Firewall status" max_length="40" name="firewall_status" type="string"/>
+        <element label="First discovered" max_length="40" name="first_discovered" type="glide_date_time"/>
+        <element label="Floppy" max_length="40" name="floppy" type="string"/>
+        <element label="Form factor" max_length="40" name="form_factor" type="string"/>
+        <element label="Fully qualified domain name" max_length="255" name="fqdn" type="string"/>
+        <element label="Function" max_length="40" name="function" type="string"/>
+        <element label="GL account" max_length="40" name="gl_account" type="string"/>
+        <element label="Hardware Status" max_length="40" name="hardware_status" type="string"/>
+        <element label="Substatus" max_length="40" name="hardware_substatus" type="string"/>
+        <element label="Host domain" max_length="255" name="host_domain" type="string"/>
+        <element label="Host name" max_length="255" name="host_name" type="string"/>
+        <element label="Installed" max_length="40" name="install_date" type="glide_date_time"/>
+        <element label="Status" max_length="40" name="install_status" type="integer"/>
+        <element label="Invoice number" max_length="40" name="invoice_number" type="string"/>
+        <element label="ILO IP Address" max_length="255" name="ip_address" type="string"/>
+        <element label="IP domain" max_length="255" name="ip_domain" type="string"/>
+        <element label="IP hostname" max_length="255" name="ip_host" type="string"/>
+        <element label="Justification" max_length="80" name="justification" type="string"/>
+        <element label="Most recent discovery" max_length="40" name="last_discovered" type="glide_date_time"/>
+        <element label="Lease contract" max_length="40" name="lease_id" type="string"/>
+        <element label="Location" max_length="32" name="location" type="string"/>
+        <element label="MAC Address" max_length="40" name="mac_address" type="string"/>
+        <element label="Managed by" max_length="32" name="managed_by" type="string"/>
+        <element label="Manufacturer" max_length="32" name="manufacturer" type="string"/>
+        <element label="Model ID" max_length="32" name="model_id" type="string"/>
+        <element label="Model number" max_length="255" name="model_number" type="string"/>
+        <element label="Monitor" max_length="40" name="monitor" type="boolean"/>
+        <element label="Name" max_length="255" name="name" type="string"/>
+        <element label="Operational status" max_length="40" name="operational_status" type="integer"/>
+        <element label="Ordered" max_length="40" name="order_date" type="glide_date_time"/>
+        <element label="Operating System" max_length="50" name="os" type="string"/>
+        <element label="OS Address Width (bits)" max_length="40" name="os_address_width" type="integer"/>
+        <element label="OS Domain" max_length="40" name="os_domain" type="string"/>
+        <element label="OS Service Pack" max_length="40" name="os_service_pack" type="string"/>
+        <element label="OS Version" max_length="40" name="os_version" type="string"/>
+        <element label="Owned by" max_length="32" name="owned_by" type="string"/>
+        <element label="Power consumption" max_length="40" name="power_consumption" type="integer"/>
+        <element label="PO number" max_length="40" name="po_number" type="string"/>
+        <element label="Date Purchased" max_length="40" name="purchase_date" type="glide_date"/>
+        <element label="Rack units" max_length="40" name="rack_units" type="integer"/>
+        <element label="RAM (GB)" max_length="40" name="ram" type="integer"/>
+        <element label="Repair contract" max_length="40" name="repair_contract_id" type="string"/>
+        <element label="Returned from repair" max_length="40" name="returned_from_repair" type="glide_date_time"/>
+        <element label="Sent for repair" max_length="40" name="sent_for_repair" type="glide_date_time"/>
+        <element label="Serial Number" max_length="255" name="serial_number" type="string"/>
+        <element label="Short description" max_length="1000" name="short_description" type="string"/>
+        <element label="Skip sync" max_length="40" name="skip_sync" type="boolean"/>
+        <element label="Start date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element label="Subcategory" max_length="40" name="subcategory" type="string"/>
+        <element label="Supported by" max_length="32" name="supported_by" type="string"/>
+        <element label="Support group" max_length="32" name="support_group" type="string"/>
+        <element label="Class" max_length="40" name="sys_class_name" type="string"/>
+        <element label="Domain" max_length="100" name="sys_domain" type="string"/>
+        <element label="Domain Path" max_length="40" name="sys_domain_path" type="string"/>
+        <element label="Requires verification" max_length="40" name="unverified" type="boolean"/>
+        <element label="Used for" max_length="40" name="used_for" type="string"/>
+        <element label="Active" max_length="40" name="u_active" type="boolean"/>
+        <element label="Application" max_length="32" name="u_application" type="string"/>
+        <element label="Asset Tag" max_length="40" name="u_asset_tag" type="string"/>
+        <element label="Backup Methodology" max_length="4000" name="u_backup_methodolgy" type="string"/>
+        <element label="Backup Schedule" max_length="40" name="u_backup_schedule" type="string"/>
+        <element label="Backup Server" max_length="40" name="u_backup_server" type="string"/>
+        <element label="Backup Server" max_length="40" name="u_backup_type" type="string"/>
+        <element label="Change" max_length="32" name="u_change" type="string"/>
+        <element label="Watch List" max_length="4000" name="u_ci_watch_list" type="string"/>
+        <element label="CPU Cores" max_length="40" name="u_cpu_cores" type="integer"/>
+        <element label="CPU Sockets" max_length="40" name="u_cpu_sockets" type="integer"/>
+        <element label="Database" max_length="32" name="u_database" type="string"/>
+        <element label="Data Class" max_length="40" name="u_data_class" type="string"/>
+        <element label="Days Online" max_length="40" name="u_days_online" type="string"/>
+        <element label="DR Test Interval" max_length="40" name="u_dr_test_interval" type="string"/>
+        <element label="ILO Name" max_length="40" name="u_ilo_name" type="string"/>
+        <element label="IP Address" max_length="40" name="u_ip_address_2" type="string"/>
+        <element label="Last DR Test Date" max_length="40" name="u_last_dr_test_date" type="glide_date"/>
+        <element label="Last Verified By" max_length="32" name="u_last_verified_by" type="string"/>
+        <element label="Last Verified Date" max_length="40" name="u_last_verified_date" type="glide_date"/>
+        <element label="OS Updated By" max_length="32" name="u_os_updated_by" type="string"/>
+        <element label="OS Updated Date" max_length="40" name="u_os_updated_date" type="glide_date"/>
+        <element label="Restore Methodology" max_length="4000" name="u_restore_methodology" type="string"/>
+        <element label="Tape Retention" max_length="40" name="u_retention_period" type="string"/>
+        <element label="Sensitive Data" max_length="40" name="u_sensitive_data" type="string"/>
+        <element label="Serial Number" max_length="40" name="u_serial_number" type="string"/>
+        <element label="Technical Owner" max_length="32" name="u_technical_owner" type="string"/>
+        <element label="Test" max_length="32" name="u_test" type="string"/>
+        <element label="Backup Type" max_length="32" name="u_test2" type="string"/>
+        <element label="Warranty Exp Date" max_length="40" name="u_warranty_expiration_date" type="glide_date"/>
+        <element label="Warranty Status" max_length="40" name="u_warranty_status" type="string"/>
+        <element label="Vendor" max_length="32" name="vendor" type="string"/>
+        <element label="Is Virtual" max_length="40" name="virtual" type="boolean"/>
+        <element label="Warranty Expiration" max_length="40" name="warranty_expiration" type="glide_date"/>
+        <index name="index">
+            <element name="sys_domain"/>
+        </index>
+    </element>
+</database>

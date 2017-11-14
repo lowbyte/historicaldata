@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Alliant Historical Archive</name>
+        <order/>
+        <roles>x_55486_archive.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-26 19:09:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f3dd8365db8a430053647bedbf961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alliant Historical Archive</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Alliant Historical Archive" source="x_55486_archive">624d47e1db8a430053647bedbf96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Alliant Historical Archive">624d47e1db8a430053647bedbf96192c</sys_scope>
+        <sys_update_name>sys_ui_application_f3dd8365db8a430053647bedbf961968</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-26 19:09:46</sys_updated_on>
+    </sys_ui_application>
+</record_update>

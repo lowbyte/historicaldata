@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="rejection_goto" label="Rejection goto" language="en" table="x_55486_archive_problem">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>rejection_goto</element>
+            <help/>
+            <hint/>
+            <label>Rejection goto</label>
+            <language>en</language>
+            <name>x_55486_archive_problem</name>
+            <plural>Rejection gotos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>dgiesbrecht</sys_created_by>
+            <sys_created_on>2017-11-04 00:30:13</sys_created_on>
+            <sys_id>77e3a510139e0700f28553722244b0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Rejection goto</sys_name>
+            <sys_package display_value="Alliant Historical Archive" source="x_55486_archive">624d47e1db8a430053647bedbf96192c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Alliant Historical Archive">624d47e1db8a430053647bedbf96192c</sys_scope>
+            <sys_update_name>sys_documentation_x_55486_archive_problem_rejection_goto_en</sys_update_name>
+            <sys_updated_by>dgiesbrecht</sys_updated_by>
+            <sys_updated_on>2017-11-04 00:30:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

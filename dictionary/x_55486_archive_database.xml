@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Database" max_length="40" name="x_55486_archive_database" type="collection">
+        <element label="Active" max_length="40" name="u_active" type="boolean"/>
+        <element label="Application" max_length="32" name="u_application" type="string"/>
+        <element label="Backup Interval" max_length="100" name="u_backup_interval" type="string"/>
+        <element label="Compatability Mode" max_length="40" name="u_compatability_mode" type="string"/>
+        <element label="Created By" max_length="32" name="u_created_by" type="string"/>
+        <element label="Database" max_length="254" name="u_database" type="string"/>
+        <element label="Database File Location" max_length="100" name="u_database_file_location" type="string"/>
+        <element label="Database Mirroring" max_length="40" name="u_database_mirroring" type="string"/>
+        <element label="Database Mirroring Methodology" max_length="40" name="u_database_mirroring_methodolo" type="string"/>
+        <element label="Database Mirror Server" max_length="32" name="u_database_mirror_server" type="string"/>
+        <element label="Encrypted" max_length="40" name="u_encrypted" type="string"/>
+        <element label="Full-Text Enabled" max_length="40" name="u_full_text_enabled" type="string"/>
+        <element label="Last Updated By" max_length="32" name="u_last_updated_by" type="string"/>
+        <element label="Notes" max_length="1000" name="u_notes" type="string"/>
+        <element label="Production" max_length="40" name="u_production" type="string"/>
+        <element label="Recovery Mode" max_length="40" name="u_recovery_mode" type="string"/>
+        <element label="Server" max_length="32" name="u_server" type="string"/>
+    </element>
+</database>

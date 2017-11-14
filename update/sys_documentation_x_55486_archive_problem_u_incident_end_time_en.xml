@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_incident_end_time" label="Incident End Time" language="en" table="x_55486_archive_problem">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_incident_end_time</element>
+            <help/>
+            <hint/>
+            <label>Incident End Time</label>
+            <language>en</language>
+            <name>x_55486_archive_problem</name>
+            <plural>Incident End Times</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>dgiesbrecht</sys_created_by>
+            <sys_created_on>2017-11-04 00:21:30</sys_created_on>
+            <sys_id>40f1e1dc135e0700f28553722244b03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Incident End Time</sys_name>
+            <sys_package display_value="Alliant Historical Archive" source="x_55486_archive">624d47e1db8a430053647bedbf96192c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Alliant Historical Archive">624d47e1db8a430053647bedbf96192c</sys_scope>
+            <sys_update_name>sys_documentation_x_55486_archive_problem_u_incident_end_time_en</sys_update_name>
+            <sys_updated_by>dgiesbrecht</sys_updated_by>
+            <sys_updated_on>2017-11-04 00:21:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

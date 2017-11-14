@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Devices" max_length="40" name="x_55486_archive_devices" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Comments" max_length="400" name="u_comments" type="string"/>
+        <element label="Configured By" max_length="32" name="u_configured_by" type="string"/>
+        <element label="Date Configured" max_length="40" name="u_date_configured" type="glide_date"/>
+        <element label="Device ID Number" max_length="40" name="u_device_id_number" type="string"/>
+        <element label="Device Owner" max_length="40" name="u_device_owner" type="string"/>
+        <element label="Device Type" max_length="40" name="u_device_type" type="string"/>
+        <element label="Model Number" max_length="40" name="u_model_number" type="string"/>
+        <element label="Employee Name" max_length="32" name="u_owner" type="string"/>
+        <element label="Parent Incident Number" max_length="40" name="u_parent_incident_number" type="string"/>
+        <element label="Phone Number" max_length="40" name="u_phone_number" type="string"/>
+        <element label="Serial Number" max_length="40" name="u_serial_number" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="close_notes" label="Cause" language="en" table="x_55486_archive_change">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>close_notes</element>
+            <help/>
+            <hint/>
+            <label>Cause</label>
+            <language>en</language>
+            <name>x_55486_archive_change</name>
+            <plural>Causes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>dgiesbrecht</sys_created_by>
+            <sys_created_on>2017-11-04 00:09:07</sys_created_on>
+            <sys_id>ee1f555c135e0700f28553722244b0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cause</sys_name>
+            <sys_package display_value="Alliant Historical Archive" source="x_55486_archive">624d47e1db8a430053647bedbf96192c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Alliant Historical Archive">624d47e1db8a430053647bedbf96192c</sys_scope>
+            <sys_update_name>sys_documentation_x_55486_archive_change_close_notes_en</sys_update_name>
+            <sys_updated_by>dgiesbrecht</sys_updated_by>
+            <sys_updated_on>2017-11-04 00:09:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

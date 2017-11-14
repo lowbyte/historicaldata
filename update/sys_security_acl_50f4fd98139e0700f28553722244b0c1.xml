@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_55486_archive_desktop</description>
+        <name>x_55486_archive_desktop</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>dgiesbrecht</sys_created_by>
+        <sys_created_on>2017-11-04 01:44:31</sys_created_on>
+        <sys_id>50f4fd98139e0700f28553722244b0c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_55486_archive_desktop</sys_name>
+        <sys_package display_value="Alliant Historical Archive" source="x_55486_archive">624d47e1db8a430053647bedbf96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Alliant Historical Archive">624d47e1db8a430053647bedbf96192c</sys_scope>
+        <sys_update_name>sys_security_acl_50f4fd98139e0700f28553722244b0c1</sys_update_name>
+        <sys_updated_by>dgiesbrecht</sys_updated_by>
+        <sys_updated_on>2017-11-04 01:44:31</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

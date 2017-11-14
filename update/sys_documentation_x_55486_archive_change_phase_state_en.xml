@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="phase_state" label="Phase state" language="en" table="x_55486_archive_change">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>phase_state</element>
+            <help/>
+            <hint/>
+            <label>Phase state</label>
+            <language>en</language>
+            <name>x_55486_archive_change</name>
+            <plural>Phase states</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>dgiesbrecht</sys_created_by>
+            <sys_created_on>2017-11-04 01:03:19</sys_created_on>
+            <sys_id>e88b2154139e0700f28553722244b07b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Phase state</sys_name>
+            <sys_package display_value="Alliant Historical Archive" source="x_55486_archive">624d47e1db8a430053647bedbf96192c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Alliant Historical Archive">624d47e1db8a430053647bedbf96192c</sys_scope>
+            <sys_update_name>sys_documentation_x_55486_archive_change_phase_state_en</sys_update_name>
+            <sys_updated_by>dgiesbrecht</sys_updated_by>
+            <sys_updated_on>2017-11-04 01:03:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

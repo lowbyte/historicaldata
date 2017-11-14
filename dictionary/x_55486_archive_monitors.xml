@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Monitors" max_length="40" name="x_55486_archive_monitors" type="collection">
+        <element label="Asset Tag" max_length="40" name="u_asset_tag" type="string"/>
+        <element label="Assigned To" max_length="40" name="u_assigned_to" type="string"/>
+        <element label="Comments" max_length="512" name="u_comments" type="string"/>
+        <element label="Date Deployed" max_length="40" name="u_date_deployed" type="glide_date"/>
+        <element label="Invoice #" max_length="40" name="u_invoice" type="string"/>
+        <element label="Location" max_length="32" name="u_location" type="string"/>
+        <element label="Manufacturer" max_length="40" name="u_manfacturer" type="string"/>
+        <element label="Model Number" max_length="40" name="u_model_number" type="string"/>
+        <element label="Name" max_length="40" name="u_name" type="string"/>
+        <element label="Opened By" max_length="40" name="u_opened_by" type="string"/>
+        <element label="Serial Number" max_length="40" name="u_serial_number" type="string"/>
+        <element label="Status" max_length="40" name="u_status" type="string"/>
+        <element label="Warrenty Date" max_length="40" name="u_warranty_date" type="glide_date"/>
+    </element>
+</database>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Incident Sys Attachment Doc XML" max_length="40" name="x_55486_archive_incident_attachment_doc" type="collection">
+        <element attributes="import_attribute_name=data,edge_encryption_enabled=true" label="data" max_length="3836" name="u_data" type="string"/>
+        <element attributes="import_attribute_name=length,edge_encryption_enabled=true" label="length" max_length="40" name="u_length" type="string"/>
+        <element attributes="import_attribute_name=position,edge_encryption_enabled=true" label="position" max_length="40" name="u_position" type="string"/>
+        <element attributes="import_attribute_name=sys_attachment,edge_encryption_enabled=true" label="sys_attachment" max_length="40" name="u_sys_attachment" type="string"/>
+        <element attributes="import_attribute_name=sys_created_by,edge_encryption_enabled=true" label="sys_created_by" max_length="40" name="u_sys_created_by" type="string"/>
+        <element attributes="import_attribute_name=sys_created_on,edge_encryption_enabled=true" label="sys_created_on" max_length="40" name="u_sys_created_on" type="string"/>
+        <element attributes="import_attribute_name=sys_id,edge_encryption_enabled=true" label="sys_id" max_length="40" name="u_sys_id" type="string"/>
+        <element attributes="import_attribute_name=sys_mod_count,edge_encryption_enabled=true" label="sys_mod_count" max_length="40" name="u_sys_mod_count" type="string"/>
+        <element attributes="import_attribute_name=sys_updated_by,edge_encryption_enabled=true" label="sys_updated_by" max_length="40" name="u_sys_updated_by" type="string"/>
+        <element attributes="import_attribute_name=sys_updated_on,edge_encryption_enabled=true" label="sys_updated_on" max_length="40" name="u_sys_updated_on" type="string"/>
+    </element>
+</database>

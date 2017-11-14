@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Problem" max_length="40" name="x_55486_archive_problem" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Activity due" max_length="40" name="activity_due" type="due_date"/>
+        <element label="Additional assignee list" max_length="4000" name="additional_assignee_list" type="string"/>
+        <element label="Overall Approval State" max_length="40" name="approval" type="string"/>
+        <element label="Approval History" max_length="4000" name="approval_history" type="journal"/>
+        <element label="Approval set" max_length="40" name="approval_set" type="glide_date_time"/>
+        <element label="Assigned To" max_length="40" name="assigned_to" type="string"/>
+        <element label="Assignment Group" max_length="32" name="assignment_group" type="string"/>
+        <element label="Business Duration" max_length="40" name="business_duration" type="glide_duration"/>
+        <element label="Business Service" max_length="32" name="business_service" type="string"/>
+        <element label="Duration" max_length="40" name="calendar_duration" type="glide_duration"/>
+        <element label="Closed Date" max_length="40" name="closed_at" type="glide_date_time"/>
+        <element label="Closed By" max_length="32" name="closed_by" type="string"/>
+        <element label="Cause" max_length="4000" name="close_notes" type="string"/>
+        <element label="Configuration Item" max_length="32" name="cmdb_ci" type="string"/>
+        <element label="Additional Comments" max_length="4000" name="comments" type="journal_input"/>
+        <element label="Ops Group" max_length="32" name="company" type="string"/>
+        <element label="Contact type" max_length="40" name="contact_type" type="string"/>
+        <element label="Correlation display" max_length="100" name="correlation_display" type="string"/>
+        <element label="Correlation id" max_length="100" name="correlation_id" type="string"/>
+        <element label="Delivery plan" max_length="32" name="delivery_plan" type="string"/>
+        <element label="Delivery task" max_length="32" name="delivery_task" type="string"/>
+        <element label="Description" max_length="4000" name="description" type="journal"/>
+        <element label="Requested Due Date" max_length="40" name="due_date" type="glide_date_time"/>
+        <element label="Escalation" max_length="40" name="escalation" type="integer"/>
+        <element label="Expected start" max_length="40" name="expected_start" type="glide_date_time"/>
+        <element label="Follow up" max_length="40" name="follow_up" type="glide_date_time"/>
+        <element label="Group list" max_length="4000" name="group_list" type="string"/>
+        <element label="Knowledge" max_length="40" name="knowledge" type="boolean"/>
+        <element label="Location" max_length="32" name="location" type="string"/>
+        <element label="Made sla" max_length="40" name="made_sla" type="boolean"/>
+        <element label="Opened Date" max_length="40" name="opened_at" type="glide_date_time"/>
+        <element label="Opened By" max_length="40" name="opened_by" type="string"/>
+        <element label="Order" max_length="40" name="order" type="integer"/>
+        <element label="Parent Incident" max_length="32" name="parent" reference="x_55486_archive_incident" type="reference"/>
+        <element label="Priority" max_length="40" name="priority" type="integer"/>
+        <element label="Status" max_length="40" name="problem_state" type="integer"/>
+        <element label="Reassignment count" max_length="40" name="reassignment_count" type="integer"/>
+        <element label="Rejection goto" max_length="32" name="rejection_goto" type="string"/>
+        <element label="RFC" max_length="32" name="rfc" type="string"/>
+        <element label="Short Description" max_length="160" name="short_description" type="string"/>
+        <element label="Skills" max_length="4000" name="skills" type="string"/>
+        <element label="SLA due" max_length="40" name="sla_die" type="due_date"/>
+        <element label="State" max_length="40" name="state" type="integer"/>
+        <element label="Task Type" max_length="80" name="sys_class_name" type="string"/>
+        <element label="Domain" max_length="100" name="sys_domain" type="string"/>
+        <element label="Upon approval" max_length="40" name="upon_approval" type="string"/>
+        <element label="Upon reject" max_length="40" name="upon_reject" type="string"/>
+        <element label="Urgency" max_length="40" name="urgency" type="integer"/>
+        <element label="User input" max_length="4000" name="user_input" type="integer"/>
+        <element label="Age" max_length="32" name="u_age" type="string"/>
+        <element label="Assignment Group" max_length="40" name="u_assignment_group" type="string"/>
+        <element label="Category" max_length="40" name="u_category" type="string"/>
+        <element label="Cause" max_length="1000" name="u_cause" type="string"/>
+        <element label="Comments and work notes" max_length="4000" name="u_comments_and_work_notes" type="journal_list"/>
+        <element label="Duration Calculation" max_length="40" name="u_duration_calculation" type="glide_duration"/>
+        <element label="Group" max_length="1024" name="u_group" type="string"/>
+        <element label="Impact" max_length="4000" name="u_impact" type="string"/>
+        <element label="Incident Duration" max_length="40" name="u_incident_duration" type="glide_date_time"/>
+        <element label="Incident End Time" max_length="40" name="u_incident_end_time" type="glide_date_time"/>
+        <element label="Incident Start Time" max_length="40" name="u_incident_start_time" type="glide_date_time"/>
+        <element label="Preventive Action" max_length="4000" name="u_preventive_action" type="string"/>
+        <element label="Problem Type" max_length="40" name="u_problem_type" type="string"/>
+        <element label="Result of Change" max_length="40" name="u_related_to_change" type="string"/>
+        <element label="Reocurring Problem" max_length="40" name="u_reoccuring_problem" type="string"/>
+        <element label="Reported By" max_length="40" name="u_reported_by" type="string"/>
+        <element label="Reporter's Location" max_length="40" name="u_reported_location" type="string"/>
+        <element label="Department" max_length="40" name="u_reporters_business_area" type="string"/>
+        <element label="Resolution" max_length="1000" name="u_resolution" type="string"/>
+        <element label="Result of Change" max_length="40" name="u_result_of_change" type="string"/>
+        <element label="Problem Review Date" max_length="40" name="u_review_date" type="glide_date"/>
+        <element label="Root Cause" max_length="40" name="u_root_cause" type="string"/>
+        <element label="Subcategory-1" max_length="40" name="u_subcategory" type="string"/>
+        <element label="Subcategory-2" max_length="40" name="u_subcategory_2" type="string"/>
+        <element label="Impact" max_length="40" name="u_type_of_impact" type="string"/>
+        <element label="Variables" max_length="40" name="variables" type="string"/>
+        <element label="Watch list" max_length="4000" name="watch_list" type="string"/>
+        <element label="Workflow activity" max_length="40" name="wf_activity" type="string"/>
+        <element label="Work end" max_length="40" name="work_end" type="glide_date_time"/>
+        <element label="Work Notes" max_length="4000" name="work_notes" type="journal"/>
+        <element label="Work start" max_length="40" name="work_start" type="glide_date_time"/>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+    </element>
+</database>

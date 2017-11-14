@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Laptop</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_55486_archive_laptop</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Desktop" name="x_55486_archive_desktop">62e47d98139e0700f28553722244b090</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-04 07:14:25</sys_created_on>
+        <sys_id>d7300714db92030053647bedbf961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptop</sys_name>
+        <sys_package display_value="Alliant Historical Archive" source="x_55486_archive">624d47e1db8a430053647bedbf96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Alliant Historical Archive">624d47e1db8a430053647bedbf96192c</sys_scope>
+        <sys_update_name>sys_db_object_d7300714db92030053647bedbf961958</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-04 07:14:25</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_55486_archive.user" name="x_55486_archive.user">ba4d0f25db8a430053647bedbf9619b1</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

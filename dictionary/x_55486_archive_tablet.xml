@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Tablet" max_length="40" name="x_55486_archive_tablet" type="collection">
+        <element label="Asset Tag" max_length="40" name="u_asset_tag" type="string"/>
+        <element label="Assigned To" max_length="32" name="u_assigned_to" type="string"/>
+        <element label="BitLocker Enabled" max_length="40" name="u_bitlocker_enabled" type="boolean"/>
+        <element label="Comments" max_length="100" name="u_comments" type="string"/>
+        <element label="CPU Speed (MHz)" max_length="40" name="u_cpu_speed_mhz" type="string"/>
+        <element label="Date Deployed" max_length="40" name="u_date_deployed" type="glide_date"/>
+        <element label="Disk Space (GB)" max_length="40" name="u_disk_space_gb" type="string"/>
+        <element label="Hard Drive Serial #" max_length="40" name="u_hard_drive_serial" type="string"/>
+        <element label="Location" max_length="32" name="u_location" type="string"/>
+        <element label="Manufacturer" max_length="32" name="u_manufacturer" type="string"/>
+        <element label="MFG Date" max_length="40" name="u_mfg_date" type="glide_date"/>
+        <element label="Model #" max_length="40" name="u_model" type="string"/>
+        <element label="Name" max_length="40" name="u_name" type="string"/>
+        <element label="Operating System" max_length="32" name="u_operating_system" type="string"/>
+        <element label="OS System" max_length="32" name="u_os_system" type="string"/>
+        <element label="RAM (GB)" max_length="40" name="u_ram_gb" type="string"/>
+        <element label="Status" max_length="40" name="u_status" type="string"/>
+        <element label="Tablet Serial #" max_length="40" name="u_tablet_serial" type="string"/>
+        <element label="Type" max_length="40" name="u_type" type="string"/>
+        <element label="Warranty Expiration" max_length="40" name="u_warranty_expiration" type="glide_date"/>
+    </element>
+</database>

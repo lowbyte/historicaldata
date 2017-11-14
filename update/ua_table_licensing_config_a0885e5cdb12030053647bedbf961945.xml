@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_55486_archive_devices</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>dgiesbrecht</sys_created_by>
+        <sys_created_on>2017-11-04 01:45:53</sys_created_on>
+        <sys_id>a0885e5cdb12030053647bedbf961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_55486_archive_devices</sys_name>
+        <sys_package display_value="Alliant Historical Archive" source="x_55486_archive">624d47e1db8a430053647bedbf96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Alliant Historical Archive">624d47e1db8a430053647bedbf96192c</sys_scope>
+        <sys_update_name>ua_table_licensing_config_a0885e5cdb12030053647bedbf961945</sys_update_name>
+        <sys_updated_by>dgiesbrecht</sys_updated_by>
+        <sys_updated_on>2017-11-04 01:45:53</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

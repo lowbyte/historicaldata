@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Change" max_length="40" name="x_55486_archive_change" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Activity due" max_length="40" name="activity_due" type="due_date"/>
+        <element label="Actual end date" max_length="40" name="actual_end_date" type="glide_date"/>
+        <element label="Actual start date" max_length="40" name="actual_start_date" type="glide_date"/>
+        <element label="Additional assignee list" max_length="4000" name="additional_assignee_list" type="string"/>
+        <element label="Overall Approval State" max_length="40" name="approval" type="string"/>
+        <element label="Approval History" max_length="4000" name="approval_history" type="journal"/>
+        <element label="Approval set" max_length="40" name="approval_set" type="glide_date_time"/>
+        <element label="Assigned To" max_length="40" name="assigned_to" type="string"/>
+        <element label="Assignment Group" max_length="32" name="assignment_group" type="string"/>
+        <element label="Backout plan" max_length="4000" name="backout_plan" type="string"/>
+        <element label="Business Duration" max_length="40" name="business_duration" type="glide_duration"/>
+        <element label="Business service" max_length="40" name="business_service" type="string"/>
+        <element label="CCB Review Date" max_length="40" name="cab_date" type="glide_date"/>
+        <element label="Cab recommendation" max_length="4000" name="cab_recommendation" type="string"/>
+        <element label="Duration" max_length="40" name="calendar_duration" type="glide_duration"/>
+        <element label="Implementation plan" max_length="4000" name="change_plan" type="string"/>
+        <element label="Closed Date" max_length="40" name="closed_at" type="glide_date_time"/>
+        <element label="Closed By" max_length="32" name="closed_by" type="string"/>
+        <element label="Cause" max_length="4000" name="close_notes" type="string"/>
+        <element label="Configuration Item" max_length="32" name="cmdb_ci" type="string"/>
+        <element label="Additional comments" max_length="4000" name="comments" type="journal_input"/>
+        <element label="Ops Group" max_length="40" name="company" type="string"/>
+        <element label="Contact type" max_length="40" name="contact_type" type="string"/>
+        <element label="Correlation display" max_length="40" name="correlation_display" type="string"/>
+        <element label="Correlation id" max_length="100" name="correlation_id" type="string"/>
+        <element label="Delivery plan" max_length="32" name="delivery_plan" type="string"/>
+        <element label="Delivery task" max_length="32" name="delivery_task" type="string"/>
+        <element label="Description" max_length="4000" name="description" type="journal"/>
+        <element label="Requested Due Date" max_length="40" name="due_date" type="glide_date_time"/>
+        <element label="End date" max_length="40" name="end_date" type="glide_date_time"/>
+        <element label="Escalation" max_length="40" name="escalation" type="integer"/>
+        <element label="Expected start" max_length="40" name="expected_start" type="glide_date_time"/>
+        <element label="Follow up" max_length="40" name="follow_up" type="glide_date_time"/>
+        <element label="Group list" max_length="4000" name="group_list" type="string"/>
+        <element label="Impact" max_length="40" name="impact" type="integer"/>
+        <element label="Implementation plan" max_length="4000" name="implmentation_plan" type="string"/>
+        <element label="Justification" max_length="4000" name="justification" type="string"/>
+        <element label="Knowledge" max_length="40" name="knowledge" type="boolean"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+        <element label="Made sla" max_length="40" name="made_sla" type="boolean"/>
+        <element label="Opened Date" max_length="40" name="opened_at" type="glide_date_time"/>
+        <element label="Opened By" max_length="32" name="opened_by" type="string"/>
+        <element label="Order" max_length="40" name="order" type="integer"/>
+        <element label="Parent Incident" max_length="32" name="parent" reference="x_55486_archive_incident" type="reference"/>
+        <element label="Phase" max_length="40" name="phase" type="string"/>
+        <element label="Phase state" max_length="40" name="phase_state" type="string"/>
+        <element label="Planned end date" max_length="40" name="planned_end_date" type="glide_date"/>
+        <element label="Planned start date" max_length="40" name="planned_start_date" type="glide_date"/>
+        <element label="Priority" max_length="40" name="priority" type="integer"/>
+        <element label="Production system" max_length="40" name="production_system" type="boolean"/>
+        <element label="Reason" max_length="40" name="reason" type="string"/>
+        <element label="Reassignment count" max_length="40" name="reassignment_count" type="integer"/>
+        <element label="Rejection goto" max_length="32" name="rejection_goto" type="string"/>
+        <element label="Requested By" max_length="32" name="requested_by" type="string"/>
+        <element label="Requested Due Date" max_length="40" name="requested_due_date" type="glide_date_time"/>
+        <element label="Review comments" max_length="4000" name="review_comments" type="string"/>
+        <element label="Review date" max_length="40" name="review_date" type="glide_date"/>
+        <element label="Review status" max_length="40" name="review_status" type="integer"/>
+        <element label="Risk" max_length="40" name="risk" type="integer"/>
+        <element label="Scope" max_length="40" name="scope" type="integer"/>
+        <element label="Short Description" max_length="160" name="short_description" type="string"/>
+        <element label="SKills" max_length="4000" name="skills" type="string"/>
+        <element label="SLA due" max_length="40" name="sla_due" type="due_date"/>
+        <element label="Start date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element label="State" max_length="40" name="state" type="integer"/>
+        <element label="Task type" max_length="80" name="sys_class_name" type="string"/>
+        <element label="Domain" max_length="100" name="sys_domain" type="string"/>
+        <element label="Test plan" max_length="4000" name="test_plan" type="string"/>
+        <element label="TIme worked" max_length="40" name="time_worked" type="string"/>
+        <element label="Type" max_length="40" name="type" type="string"/>
+        <element label="Upon approval" max_length="40" name="upon_approval" type="string"/>
+        <element label="Upon reject" max_length="40" name="upon_reject" type="string"/>
+        <element label="Urgency" max_length="40" name="urgency" type="integer"/>
+        <element label="Age" max_length="32" name="u_age" type="string"/>
+        <element label="Assignment Group" max_length="32" name="u_assignment_group" type="string"/>
+        <element label="Category" max_length="40" name="u_category" type="string"/>
+        <element label="Cause" max_length="1000" name="u_cause" type="string"/>
+        <element label="Department" max_length="32" name="u_department" type="string"/>
+        <element label="Development" max_length="40" name="u_development" type="boolean"/>
+        <element label="Implementation Date" max_length="40" name="u_implementation_date" type="glide_date"/>
+        <element label="Nstat" max_length="40" name="u_nstat" type="integer"/>
+        <element label="Product" max_length="32" name="u_product" type="string"/>
+        <element label="Production" max_length="40" name="u_production" type="boolean"/>
+        <element label="QA/UAT" max_length="40" name="u_qa_uat" type="boolean"/>
+        <element label="Release" max_length="32" name="u_release" type="string"/>
+        <element label="Release Feature" max_length="32" name="u_release_feature" type="string"/>
+        <element label="Remove This Section" max_length="40" name="u_remove_this_section" type="string"/>
+        <element label="Sandbox" max_length="40" name="u_sandbox" type="boolean"/>
+        <element label="Server" max_length="32" name="u_server" type="string"/>
+        <element label="Status" max_length="40" name="u_status" type="string"/>
+        <element label="Subcategory" max_length="128" name="u_subcategory" type="string"/>
+        <element label="Training" max_length="40" name="u_training" type="boolean"/>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+    </element>
+</database>
